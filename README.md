@@ -2,8 +2,6 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-
 I'm a software developer based in Port Harcourt, Nigeria
 
 With over 4 years of experience specializing in TypeScript and JavaScript. I have a passion for building high-performance, scalable, and maintainable web applications. My expertise spans from crafting responsive front-end interfaces with React and NextJS to developing robust back-end services using NestJS and Node.js. I am committed to optimizing application performance, enhancing user experience, and ensuring code quality. Driven by continuous learning and innovation, I am always exploring new technologies to solve complex problems and deliver impactful solutions.
