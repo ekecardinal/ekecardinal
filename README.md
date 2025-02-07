@@ -24,12 +24,9 @@ With over 4 years of experience specializing in TypeScript and JavaScript. I hav
 
 ---
 
+
 ## 📬 Reach Out to Me!
 
-Feel free to connect with me on the following platforms:
-
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- 📧 [Email Me](mailto:ekecardinal@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  📧 [Email Me](mailto:ekecardinal@gmail.com) |
 
 Let's build something great together!
