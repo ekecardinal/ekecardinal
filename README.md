@@ -4,7 +4,7 @@
 - **Phone**: +2348065568671  
 - **Location**: Rivers, Nigeria  
 - **Email**: [ekecardinal@gmail.com](mailto:ekecardinal@gmail.com)  
-- [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/)
+- [GitHub](https://github.com/ekecardinal) | [LinkedIn](https://www.linkedin.com/in/eke-princewill-919a5b156/)
 
 ---
 
