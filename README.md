@@ -21,3 +21,15 @@ With over 4 years of experience specializing in TypeScript and JavaScript. I hav
 
 ### **Other Technologies**
 ![Axios](https://img.shields.io/badge/Axios-5A29E5?style=flat&logo=axios) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+
+---
+
+## 📬 Reach Out to Me!
+
+Feel free to connect with me on the following platforms:
+
+- [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 📧 [Email Me](mailto:ekecardinal@gmail.com)
+
+Let's build something great together!
