@@ -1,4 +1,4 @@
-# ![EKE PRINCEWILL - Software Engineer](https://img.shields.io/badge/Software%20Engineer-Portfolio-blueviolet)
+# 👋 Hi, I'm Eke Princewill – Software Engineer
 
 ### 📞 Contact Information
 - **Phone**: +2348065568671  
